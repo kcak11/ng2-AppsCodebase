@@ -6,6 +6,5 @@
     "underscore": "registry:dt/underscore#1.8.3+20161123125004"
   },
   "ambientDependencies": {
-    /*"underscore": "github:DefinitelyTyped/DefinitelyTyped/underscore/underscore.d.ts#f0990e288ac73d593e982995947567aa2643b828"*/
   }
 }
